@@ -29,8 +29,23 @@ namespace FastCode.WebFresher072023.Practice.Controllers
         [HttpPost()]
         public virtual async Task<ActionResult<int>> CreateAsync(TEntityCreateDto entityCreateDto)
         {
-            //int qualityRecordsCreate = await _baseService.CreateAsync(entityCreateDto);
-            return Ok(1);
+            int qualityRecordsCreate = await _baseService.CreateAsync(entityCreateDto);
+            return Ok(qualityRecordsCreate);
         }
+
+        /// <summary>
+        /// - Thực hiện lấy thông tin thực thể
+        /// </summary>
+        /// <param name="entityCreateDto">Thông tin thực thể muốn thêm</param>
+        /// <returns>Số bản ghi đã thêm</returns>
+        /// CreatedBy: DDKhang (27/6/2023)
+        [HttpGet]
+        public virtual async Task<ActionResult<List<TEntityDto>>> GetAsync(string? entityName)
+        {
+            List<TEntityDto> entities = await _baseService.GetAsync(entityName);
+            return Ok(entities);
+        }
+
+
     }
 }

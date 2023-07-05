@@ -2,6 +2,7 @@
 using FastCode.WebFresher072023.BL.DTO.Foods;
 using FastCode.WebFresher072023.BL.Service.Bases;
 using FastCode.WebFresher072023.DL.Entity;
+using FastCode.WebFresher072023.DL.Repository.Bases;
 using FastCode.WebFresher072023.DL.Repository.Foods;
 using System;
 using System.Collections.Generic;
@@ -11,11 +12,15 @@ using System.Threading.Tasks;
 
 namespace FastCode.WebFresher072023.BL.Service.Foods
 {
-    public class FoodService : BaseService<Food, FoodDto, FoodUpdateDto, FoodCreateDto>, IFoodService
+    public class QuestionService : BaseService<Question, QuestionDto, QuestionUpdateDto, QuestionCreateDto>, IQuestionService
     {
 
-        private readonly IFoodRepository _foodRepository;
+        private readonly IQuestionRepository _foodRepository;
         private IMapper _mapper;
+
+        public QuestionService(IQuestionRepository questionRepository, IMapper mapper) : base(questionRepository, mapper)
+        {
+        }
 
         //public FoodService(IFoodRepository foodRepository, IMapper mapper) : base(foodRepository, mapper)
         //{

@@ -6,9 +6,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace FastCode.WebFresher072023.DL.Repository.Foods
+namespace FastCode.WebFresher072023.DL.Repository.Answers
 {
-    public interface IFoodRepository : IBaseRepository<Food>
+    public interface IAnswerRepository : IBaseRepository<Answer>
     {
     }
 }

@@ -7,11 +7,11 @@ using Microsoft.AspNetCore.Mvc;
 namespace FastCode.WebFresher072023.Practice.Controllers
 {
     [Route("api/v1/[controller]")]
-    public class FoodsController : BaseController<Food, FoodDto, FoodUpdateDto, FoodCreateDto>
+    public class QuestionsController : BaseController<Question, QuestionDto, QuestionUpdateDto, QuestionCreateDto>
     {
         private readonly string _connectionString;
 
-        public FoodsController(IConfiguration configuration, IFoodService foodService) : base(foodService)
+        public QuestionsController(IConfiguration configuration, IQuestionService foodService) : base(foodService)
         {
             _connectionString = configuration.GetConnectionString("DefaultConnection") ?? "";
         }

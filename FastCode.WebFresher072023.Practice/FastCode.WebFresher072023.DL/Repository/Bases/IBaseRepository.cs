@@ -8,5 +8,8 @@ namespace FastCode.WebFresher072023.DL.Repository.Bases
 {
     public interface IBaseRepository<TEntity>
     {
+        Task<List<TEntity>> EntityFilterAsync(string entityName);
+
+        Task<int> CreateEntity(TEntity entity);
     }
 }

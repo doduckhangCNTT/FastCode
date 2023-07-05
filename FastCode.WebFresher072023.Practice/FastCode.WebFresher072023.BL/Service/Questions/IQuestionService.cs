@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace FastCode.WebFresher072023.BL.Service.Foods
 {
-    public interface IFoodService : IBaseService<FoodDto, FoodUpdateDto, FoodCreateDto>
+    public interface IQuestionService : IBaseService<QuestionDto, QuestionUpdateDto, QuestionCreateDto>
     {
     }
 }

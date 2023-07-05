@@ -9,9 +9,9 @@ using System.Threading.Tasks;
 
 namespace FastCode.WebFresher072023.DL.Repository.Foods
 {
-    public class FoodRepository : BaseRepository<Food>, IFoodRepository
+    public class QuestionRepository : BaseRepository<Question>, IQuestionRepository
     {
-        public FoodRepository(IConfiguration configuration) : base(configuration)
+        public QuestionRepository(IConfiguration configuration) : base(configuration)
         {
         }
     }
