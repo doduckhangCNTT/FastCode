@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Rmpk16OxiQtmAm06anbwGxQzhy/iaPejkR8LXC1SIzTeAEo26mbG4ZQ3lKxzzFk6m3IEsbfQFZOJ/R+qfsvM/Q==",
+  "dgSpecHash": "CzdwNpFlvAKJGMZVz2CQpV4YI3UMmy6fZtIrjb5ObMzc7Uhdo6Y5eZwCCyz/Lj5M8ZpDXl+psITTTUf5rL/XZA==",
   "success": true,
-  "projectFilePath": "D:\\Work\\Misa\\FastCode\\ProductName\\Product\\BackEnd\\FastCode.WebFresher072023.Practice\\FastCode.WebFresher072023.BL\\FastCode.WebFresher072023.BL.csproj",
+  "projectFilePath": "C:\\Users\\Admin\\Desktop\\fastcode\\FastCode\\FastCode.WebFresher072023.Practice\\FastCode.WebFresher072023.BL\\FastCode.WebFresher072023.BL.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Admin\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\Admin\\.nuget\\packages\\dapper\\2.0.143\\dapper.2.0.143.nupkg.sha512",

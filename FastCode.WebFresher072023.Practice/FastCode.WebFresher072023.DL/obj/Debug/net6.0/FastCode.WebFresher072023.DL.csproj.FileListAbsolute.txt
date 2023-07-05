@@ -10,3 +10,15 @@ D:\Work\Misa\FastCode\ProductName\Product\BackEnd\FastCode.WebFresher072023.Prac
 D:\Work\Misa\FastCode\ProductName\Product\BackEnd\FastCode.WebFresher072023.Practice\FastCode.WebFresher072023.DL\obj\Debug\net6.0\refint\FastCode.WebFresher072023.DL.dll
 D:\Work\Misa\FastCode\ProductName\Product\BackEnd\FastCode.WebFresher072023.Practice\FastCode.WebFresher072023.DL\obj\Debug\net6.0\FastCode.WebFresher072023.DL.pdb
 D:\Work\Misa\FastCode\ProductName\Product\BackEnd\FastCode.WebFresher072023.Practice\FastCode.WebFresher072023.DL\obj\Debug\net6.0\ref\FastCode.WebFresher072023.DL.dll
+C:\Users\Admin\Desktop\fastcode\FastCode\FastCode.WebFresher072023.Practice\FastCode.WebFresher072023.DL\bin\Debug\net6.0\FastCode.WebFresher072023.DL.deps.json
+C:\Users\Admin\Desktop\fastcode\FastCode\FastCode.WebFresher072023.Practice\FastCode.WebFresher072023.DL\bin\Debug\net6.0\FastCode.WebFresher072023.DL.dll
+C:\Users\Admin\Desktop\fastcode\FastCode\FastCode.WebFresher072023.Practice\FastCode.WebFresher072023.DL\bin\Debug\net6.0\FastCode.WebFresher072023.DL.pdb
+C:\Users\Admin\Desktop\fastcode\FastCode\FastCode.WebFresher072023.Practice\FastCode.WebFresher072023.DL\obj\Debug\net6.0\FastCode.WebFresher072023.DL.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\fastcode\FastCode\FastCode.WebFresher072023.Practice\FastCode.WebFresher072023.DL\obj\Debug\net6.0\FastCode.WebFresher072023.DL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\fastcode\FastCode\FastCode.WebFresher072023.Practice\FastCode.WebFresher072023.DL\obj\Debug\net6.0\FastCode.WebFresher072023.DL.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\fastcode\FastCode\FastCode.WebFresher072023.Practice\FastCode.WebFresher072023.DL\obj\Debug\net6.0\FastCode.WebFresher072023.DL.AssemblyInfo.cs
+C:\Users\Admin\Desktop\fastcode\FastCode\FastCode.WebFresher072023.Practice\FastCode.WebFresher072023.DL\obj\Debug\net6.0\FastCode.WebFresher072023.DL.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\fastcode\FastCode\FastCode.WebFresher072023.Practice\FastCode.WebFresher072023.DL\obj\Debug\net6.0\FastCode.WebFresher072023.DL.dll
+C:\Users\Admin\Desktop\fastcode\FastCode\FastCode.WebFresher072023.Practice\FastCode.WebFresher072023.DL\obj\Debug\net6.0\refint\FastCode.WebFresher072023.DL.dll
+C:\Users\Admin\Desktop\fastcode\FastCode\FastCode.WebFresher072023.Practice\FastCode.WebFresher072023.DL\obj\Debug\net6.0\FastCode.WebFresher072023.DL.pdb
+C:\Users\Admin\Desktop\fastcode\FastCode\FastCode.WebFresher072023.Practice\FastCode.WebFresher072023.DL\obj\Debug\net6.0\ref\FastCode.WebFresher072023.DL.dll

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Work\\Misa\\FastCode\\ProductName\\Product\\BackEnd\\FastCode.WebFresher072023.Practice\\FastCode.WebFresher072023.Practice\\FastCode.WebFresher072023.Practice.csproj": {}
+    "C:\\Users\\Admin\\Desktop\\fastcode\\FastCode\\FastCode.WebFresher072023.Practice\\FastCode.WebFresher072023.Practice\\FastCode.WebFresher072023.Practice.csproj": {}
   },
   "projects": {
-    "D:\\Work\\Misa\\FastCode\\ProductName\\Product\\BackEnd\\FastCode.WebFresher072023.Practice\\FastCode.WebFresher072023.BL\\FastCode.WebFresher072023.BL.csproj": {
+    "C:\\Users\\Admin\\Desktop\\fastcode\\FastCode\\FastCode.WebFresher072023.Practice\\FastCode.WebFresher072023.BL\\FastCode.WebFresher072023.BL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Work\\Misa\\FastCode\\ProductName\\Product\\BackEnd\\FastCode.WebFresher072023.Practice\\FastCode.WebFresher072023.BL\\FastCode.WebFresher072023.BL.csproj",
+        "projectUniqueName": "C:\\Users\\Admin\\Desktop\\fastcode\\FastCode\\FastCode.WebFresher072023.Practice\\FastCode.WebFresher072023.BL\\FastCode.WebFresher072023.BL.csproj",
         "projectName": "FastCode.WebFresher072023.BL",
-        "projectPath": "D:\\Work\\Misa\\FastCode\\ProductName\\Product\\BackEnd\\FastCode.WebFresher072023.Practice\\FastCode.WebFresher072023.BL\\FastCode.WebFresher072023.BL.csproj",
+        "projectPath": "C:\\Users\\Admin\\Desktop\\fastcode\\FastCode\\FastCode.WebFresher072023.Practice\\FastCode.WebFresher072023.BL\\FastCode.WebFresher072023.BL.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "D:\\Work\\Misa\\FastCode\\ProductName\\Product\\BackEnd\\FastCode.WebFresher072023.Practice\\FastCode.WebFresher072023.BL\\obj\\",
+        "outputPath": "C:\\Users\\Admin\\Desktop\\fastcode\\FastCode\\FastCode.WebFresher072023.Practice\\FastCode.WebFresher072023.BL\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "D:\\Work\\Misa\\FastCode\\ProductName\\Product\\BackEnd\\FastCode.WebFresher072023.Practice\\FastCode.WebFresher072023.DL\\FastCode.WebFresher072023.DL.csproj": {
-                "projectPath": "D:\\Work\\Misa\\FastCode\\ProductName\\Product\\BackEnd\\FastCode.WebFresher072023.Practice\\FastCode.WebFresher072023.DL\\FastCode.WebFresher072023.DL.csproj"
+              "C:\\Users\\Admin\\Desktop\\fastcode\\FastCode\\FastCode.WebFresher072023.Practice\\FastCode.WebFresher072023.DL\\FastCode.WebFresher072023.DL.csproj": {
+                "projectPath": "C:\\Users\\Admin\\Desktop\\fastcode\\FastCode\\FastCode.WebFresher072023.Practice\\FastCode.WebFresher072023.DL\\FastCode.WebFresher072023.DL.csproj"
               }
             }
           }
@@ -59,7 +59,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -68,18 +69,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\Work\\Misa\\FastCode\\ProductName\\Product\\BackEnd\\FastCode.WebFresher072023.Practice\\FastCode.WebFresher072023.DL\\FastCode.WebFresher072023.DL.csproj": {
+    "C:\\Users\\Admin\\Desktop\\fastcode\\FastCode\\FastCode.WebFresher072023.Practice\\FastCode.WebFresher072023.DL\\FastCode.WebFresher072023.DL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Work\\Misa\\FastCode\\ProductName\\Product\\BackEnd\\FastCode.WebFresher072023.Practice\\FastCode.WebFresher072023.DL\\FastCode.WebFresher072023.DL.csproj",
+        "projectUniqueName": "C:\\Users\\Admin\\Desktop\\fastcode\\FastCode\\FastCode.WebFresher072023.Practice\\FastCode.WebFresher072023.DL\\FastCode.WebFresher072023.DL.csproj",
         "projectName": "FastCode.WebFresher072023.DL",
-        "projectPath": "D:\\Work\\Misa\\FastCode\\ProductName\\Product\\BackEnd\\FastCode.WebFresher072023.Practice\\FastCode.WebFresher072023.DL\\FastCode.WebFresher072023.DL.csproj",
+        "projectPath": "C:\\Users\\Admin\\Desktop\\fastcode\\FastCode\\FastCode.WebFresher072023.Practice\\FastCode.WebFresher072023.DL\\FastCode.WebFresher072023.DL.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "D:\\Work\\Misa\\FastCode\\ProductName\\Product\\BackEnd\\FastCode.WebFresher072023.Practice\\FastCode.WebFresher072023.DL\\obj\\",
+        "outputPath": "C:\\Users\\Admin\\Desktop\\fastcode\\FastCode\\FastCode.WebFresher072023.Practice\\FastCode.WebFresher072023.DL\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -135,7 +136,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -144,18 +146,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\Work\\Misa\\FastCode\\ProductName\\Product\\BackEnd\\FastCode.WebFresher072023.Practice\\FastCode.WebFresher072023.Practice\\FastCode.WebFresher072023.Practice.csproj": {
+    "C:\\Users\\Admin\\Desktop\\fastcode\\FastCode\\FastCode.WebFresher072023.Practice\\FastCode.WebFresher072023.Practice\\FastCode.WebFresher072023.Practice.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Work\\Misa\\FastCode\\ProductName\\Product\\BackEnd\\FastCode.WebFresher072023.Practice\\FastCode.WebFresher072023.Practice\\FastCode.WebFresher072023.Practice.csproj",
+        "projectUniqueName": "C:\\Users\\Admin\\Desktop\\fastcode\\FastCode\\FastCode.WebFresher072023.Practice\\FastCode.WebFresher072023.Practice\\FastCode.WebFresher072023.Practice.csproj",
         "projectName": "FastCode.WebFresher072023.Practice",
-        "projectPath": "D:\\Work\\Misa\\FastCode\\ProductName\\Product\\BackEnd\\FastCode.WebFresher072023.Practice\\FastCode.WebFresher072023.Practice\\FastCode.WebFresher072023.Practice.csproj",
+        "projectPath": "C:\\Users\\Admin\\Desktop\\fastcode\\FastCode\\FastCode.WebFresher072023.Practice\\FastCode.WebFresher072023.Practice\\FastCode.WebFresher072023.Practice.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "D:\\Work\\Misa\\FastCode\\ProductName\\Product\\BackEnd\\FastCode.WebFresher072023.Practice\\FastCode.WebFresher072023.Practice\\obj\\",
+        "outputPath": "C:\\Users\\Admin\\Desktop\\fastcode\\FastCode\\FastCode.WebFresher072023.Practice\\FastCode.WebFresher072023.Practice\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -172,11 +174,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "D:\\Work\\Misa\\FastCode\\ProductName\\Product\\BackEnd\\FastCode.WebFresher072023.Practice\\FastCode.WebFresher072023.BL\\FastCode.WebFresher072023.BL.csproj": {
-                "projectPath": "D:\\Work\\Misa\\FastCode\\ProductName\\Product\\BackEnd\\FastCode.WebFresher072023.Practice\\FastCode.WebFresher072023.BL\\FastCode.WebFresher072023.BL.csproj"
+              "C:\\Users\\Admin\\Desktop\\fastcode\\FastCode\\FastCode.WebFresher072023.Practice\\FastCode.WebFresher072023.BL\\FastCode.WebFresher072023.BL.csproj": {
+                "projectPath": "C:\\Users\\Admin\\Desktop\\fastcode\\FastCode\\FastCode.WebFresher072023.Practice\\FastCode.WebFresher072023.BL\\FastCode.WebFresher072023.BL.csproj"
               },
-              "D:\\Work\\Misa\\FastCode\\ProductName\\Product\\BackEnd\\FastCode.WebFresher072023.Practice\\FastCode.WebFresher072023.DL\\FastCode.WebFresher072023.DL.csproj": {
-                "projectPath": "D:\\Work\\Misa\\FastCode\\ProductName\\Product\\BackEnd\\FastCode.WebFresher072023.Practice\\FastCode.WebFresher072023.DL\\FastCode.WebFresher072023.DL.csproj"
+              "C:\\Users\\Admin\\Desktop\\fastcode\\FastCode\\FastCode.WebFresher072023.Practice\\FastCode.WebFresher072023.DL\\FastCode.WebFresher072023.DL.csproj": {
+                "projectPath": "C:\\Users\\Admin\\Desktop\\fastcode\\FastCode\\FastCode.WebFresher072023.Practice\\FastCode.WebFresher072023.DL\\FastCode.WebFresher072023.DL.csproj"
               }
             }
           }
@@ -210,7 +212,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -222,7 +225,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     }
