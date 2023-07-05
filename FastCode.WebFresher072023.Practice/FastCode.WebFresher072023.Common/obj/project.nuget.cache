@@ -1,8 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "e7CHXaHCOpTpM0wxLBSU+w/hahiZojAeb3YVouuQYhNkgdRfm6rL77EsKL8XKag+mOiXoKFnZPHwJSGf7gSJ/g==",
+  "dgSpecHash": "KCAxSZ6WyA1IlJmTzjSHZJEvksG9ay2PvrCskxV9nRgdUH1BTlfOjQbipD1oQ6RWJMCJt5WyUXLfBokqYgD0aQ==",
   "success": true,
-  "projectFilePath": "D:\\Work\\Misa\\FastCode\\ProductName\\Product\\BackEnd\\FastCode.WebFresher072023.Practice\\FastCode.WebFresher072023.Common\\FastCode.WebFresher072023.Common.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\Admin\\Desktop\\fastcode\\FastCode\\FastCode.WebFresher072023.Practice\\FastCode.WebFresher072023.Common\\FastCode.WebFresher072023.Common.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.aspnetcore.http.abstractions\\2.2.0\\microsoft.aspnetcore.http.abstractions.2.2.0.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.aspnetcore.http.features\\2.2.0\\microsoft.aspnetcore.http.features.2.2.0.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.extensions.primitives\\2.2.0\\microsoft.extensions.primitives.2.2.0.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\system.memory\\4.5.1\\system.memory.4.5.1.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.1\\system.runtime.compilerservices.unsafe.4.5.1.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\system.text.encodings.web\\4.5.0\\system.text.encodings.web.4.5.0.nupkg.sha512"
+  ],
   "logs": []
 }
