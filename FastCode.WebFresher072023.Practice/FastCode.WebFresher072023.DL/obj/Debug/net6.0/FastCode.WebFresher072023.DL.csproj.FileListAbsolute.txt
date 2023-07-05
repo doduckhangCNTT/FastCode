@@ -1,0 +1,12 @@
+D:\Work\Misa\FastCode\ProductName\Product\BackEnd\FastCode.WebFresher072023.Practice\FastCode.WebFresher072023.DL\bin\Debug\net6.0\FastCode.WebFresher072023.DL.deps.json
+D:\Work\Misa\FastCode\ProductName\Product\BackEnd\FastCode.WebFresher072023.Practice\FastCode.WebFresher072023.DL\bin\Debug\net6.0\FastCode.WebFresher072023.DL.dll
+D:\Work\Misa\FastCode\ProductName\Product\BackEnd\FastCode.WebFresher072023.Practice\FastCode.WebFresher072023.DL\bin\Debug\net6.0\FastCode.WebFresher072023.DL.pdb
+D:\Work\Misa\FastCode\ProductName\Product\BackEnd\FastCode.WebFresher072023.Practice\FastCode.WebFresher072023.DL\obj\Debug\net6.0\FastCode.WebFresher072023.DL.csproj.AssemblyReference.cache
+D:\Work\Misa\FastCode\ProductName\Product\BackEnd\FastCode.WebFresher072023.Practice\FastCode.WebFresher072023.DL\obj\Debug\net6.0\FastCode.WebFresher072023.DL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work\Misa\FastCode\ProductName\Product\BackEnd\FastCode.WebFresher072023.Practice\FastCode.WebFresher072023.DL\obj\Debug\net6.0\FastCode.WebFresher072023.DL.AssemblyInfoInputs.cache
+D:\Work\Misa\FastCode\ProductName\Product\BackEnd\FastCode.WebFresher072023.Practice\FastCode.WebFresher072023.DL\obj\Debug\net6.0\FastCode.WebFresher072023.DL.AssemblyInfo.cs
+D:\Work\Misa\FastCode\ProductName\Product\BackEnd\FastCode.WebFresher072023.Practice\FastCode.WebFresher072023.DL\obj\Debug\net6.0\FastCode.WebFresher072023.DL.csproj.CoreCompileInputs.cache
+D:\Work\Misa\FastCode\ProductName\Product\BackEnd\FastCode.WebFresher072023.Practice\FastCode.WebFresher072023.DL\obj\Debug\net6.0\FastCode.WebFresher072023.DL.dll
+D:\Work\Misa\FastCode\ProductName\Product\BackEnd\FastCode.WebFresher072023.Practice\FastCode.WebFresher072023.DL\obj\Debug\net6.0\refint\FastCode.WebFresher072023.DL.dll
+D:\Work\Misa\FastCode\ProductName\Product\BackEnd\FastCode.WebFresher072023.Practice\FastCode.WebFresher072023.DL\obj\Debug\net6.0\FastCode.WebFresher072023.DL.pdb
+D:\Work\Misa\FastCode\ProductName\Product\BackEnd\FastCode.WebFresher072023.Practice\FastCode.WebFresher072023.DL\obj\Debug\net6.0\ref\FastCode.WebFresher072023.DL.dll
